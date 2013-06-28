@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>jqPlot</id>
+    <version>1.0.8</version>
+    <authors>cleonello</authors>
+    <owners>Indaco Systems</owners>
+    <description>templating js, modified by Indaco Systems</description>
+    <projectUrl>http://www.jqplot.com/</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>plot</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+  <file src="jquery.jqplot.js" target="Content\Scripts\Lib\Vendor\jqPlot\jquery.jqplot.js" />
+	<file src="jquery.jqplot.css" target="Content\Scripts\Lib\Vendor\jqPlot\jquery.jqplot.css" />
+	<file src="plugins\jqplot.BezierCurveRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.BezierCurveRenderer.js" />
+	<file src="plugins\jqplot.barRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.barRenderer.js" />
+	<file src="plugins\jqplot.blockRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.blockRenderer.js" />
+	<file src="plugins\jqplot.bubbleRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.bubbleRenderer.js" />
+	<file src="plugins\jqplot.canvasAxisLabelRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.canvasAxisLabelRenderer.js" />
+	<file src="plugins\jqplot.canvasAxisTickRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.canvasAxisTickRenderer.js" />
+	<file src="plugins\jqplot.canvasOverlay.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.canvasOverlay.js" />
+	<file src="plugins\jqplot.canvasTextRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.canvasTextRenderer.js" />
+	<file src="plugins\jqplot.categoryAxisRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.categoryAxisRenderer.js" />
+	<file src="plugins\jqplot.ciParser.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.ciParser.js" />
+	<file src="plugins\jqplot.cursor.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.cursor.js" />
+	<file src="plugins\jqplot.dateAxisRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.dateAxisRenderer.js" />
+	<file src="plugins\jqplot.donutRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.donutRenderer.js" />
+	<file src="plugins\jqplot.dragable.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.dragable.js" />
+	<file src="plugins\jqplot.enhancedLegendRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.enhancedLegendRenderer.js" />
+	<file src="plugins\jqplot.funnelRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.funnelRenderer.js" />
+	<file src="plugins\jqplot.highlighter.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.highlighter.js" />
+	<file src="plugins\jqplot.logAxisRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.logAxisRenderer.js" />
+	<file src="plugins\jqplot.mekkoAxisRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.mekkoAxisRenderer.js" />
+	<file src="plugins\jqplot.mekkoRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.mekkoRenderer.js" />
+	<file src="plugins\jqplot.meterGaugeRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.meterGaugeRenderer.js" />
+	<file src="plugins\jqplot.mobile.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.mobile.js" />
+	<file src="plugins\jqplot.ohlcRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.ohlcRenderer.js" />
+	<file src="plugins\jqplot.pieRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.pieRenderer.js" />
+	<file src="plugins\jqplot.pointLabels.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.pointLabels.js" />
+	<file src="plugins\jqplot.pyramidAxisRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.pyramidAxisRenderer.js" />
+	<file src="plugins\jqplot.pyramidGridRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.pyramidGridRenderer.js" />
+	<file src="plugins\jqplot.pyramidRenderer.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.pyramidRenderer.js" />
+	<file src="plugins\jqplot.trendline.js" target="Content\Scripts\Lib\Vendor\jqPlot\plugins\jqplot.trendline.js" />
+  </files>
+</package>
